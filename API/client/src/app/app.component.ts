@@ -14,8 +14,9 @@ export class AppComponent implements OnInit {
   ngOnInit(){
     this.getUser();
   }
+  
   getUser(){
-    this.htttp.get('https:localhost:5001/api/users').subscribe(response=>{
+    this.htttp.get('https://localhost:5001/api/users').subscribe(response=>{
       this.users=response;
     },error=>{
       console.log(error);
