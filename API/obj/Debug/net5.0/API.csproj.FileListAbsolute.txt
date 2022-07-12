@@ -57,11 +57,5 @@ D:\Document\ThucTap\DatingApp\API\obj\Debug\net5.0\API.dll
 D:\Document\ThucTap\DatingApp\API\obj\Debug\net5.0\ref\API.dll
 D:\Document\ThucTap\DatingApp\API\obj\Debug\net5.0\API.pdb
 D:\Document\ThucTap\DatingApp\API\obj\Debug\net5.0\API.genruntimeconfig.cache
-D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\client\angular.json
-D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\client\package-lock.json
-D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\client\package.json
-D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\client\tsconfig.app.json
-D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\client\tsconfig.json
-D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\client\tsconfig.spec.json
 D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\package-lock.json
 D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\package.json
