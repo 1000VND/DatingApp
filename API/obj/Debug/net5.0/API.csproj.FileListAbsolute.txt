@@ -61,3 +61,4 @@ D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\package-lock.json
 D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\package.json
 D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
 D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
+D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
