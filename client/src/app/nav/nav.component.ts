@@ -18,18 +18,14 @@ export class NavComponent implements OnInit {
     private toastr: ToastrService,
   ) {}
 
-  ngOnInit(): void {}
+  ngOnInit(): void {
+    this.accountService.logout()
+  }
 
   login() {
-    this.accountService.login(this.model).subscribe(
-      (response) => {
-        this.router.navigateByUrl('/members')
-      },
-      (error) => {
-        console.log(error)
-        this.toastr.error(error.error)
-      },
-    )
+    this.accountService.login(this.model).subscribe((response) => {
+      this.router.navigateByUrl('/members')
+    })
   }
 
   logout() {

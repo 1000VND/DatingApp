@@ -62,3 +62,10 @@ D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\package.json
 D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Https.dll
 D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Server.Kestrel.Transport.Abstractions.dll
 D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\Data\UserSeedData.json
+D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\AutoMapper.dll
+D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\Document\ThucTap\DatingApp\API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
