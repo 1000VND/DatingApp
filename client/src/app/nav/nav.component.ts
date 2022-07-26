@@ -19,7 +19,7 @@ export class NavComponent implements OnInit {
   ) {}
 
   ngOnInit(): void {
-    // this.accountService.logout()
+    this.accountService.logout()
   }
 
   login() {
@@ -31,5 +31,9 @@ export class NavComponent implements OnInit {
   logout() {
     this.accountService.logout()
     this.router.navigateByUrl('/')
+  }
+
+  edit() {
+    this.router.navigateByUrl('member/edit')
   }
 }
