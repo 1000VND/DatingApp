@@ -7,3 +7,9 @@
     display: flex;
     justify-content: center;
 }
+
+.form-group{
+    display: block;
+    text-align:center
+}
+
