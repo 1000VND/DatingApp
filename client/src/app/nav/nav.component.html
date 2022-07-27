@@ -45,7 +45,7 @@
         dropdownToggle
         style="margin-left: 50px;"
       >
-        Welcome {{ user.username | titlecase }}
+        Welcome {{ user.knownAs | titlecase }}
         <div class="drop-menu mt-3" *dropdownMenu>
           <a class="dropdown-item text-light" (click)="edit()">Edit Project</a>
           <div class="dropdown-divider"></div>
